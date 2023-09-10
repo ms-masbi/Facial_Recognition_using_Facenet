@@ -60,9 +60,6 @@ For doing that, run `create-face.py` the images get stored in `/incept` folder. 
 python3 rec-feat.py
 ```
 
-## Results 
-
-<img src="Face-Rec.gif">
 
 
 ## References 
